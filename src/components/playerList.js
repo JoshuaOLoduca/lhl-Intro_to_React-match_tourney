@@ -1,4 +1,7 @@
 import Player from './Player.js';
+import matchData from '../data/matchData';
+import playerData from '../data/playerData';
+import { preparePlayerData, addWinsToPlayers } from '../helpers/playerHelpers';
 
 function PlayerList(props) {
   return (
