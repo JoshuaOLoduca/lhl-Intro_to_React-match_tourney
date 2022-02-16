@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import MatchList from './components/MatchList';
 import PlayerList from './components/playerList';
